@@ -2,15 +2,21 @@
 
 ## Descripción
 
-Proyecto desarrollado en SQLite para analizar información de ventas mediante consultas SQL orientadas al negocio.
+Proyecto desarrollado en SQLite para analizar información de ventas mediante consultas SQL enfocadas en responder preguntas de negocio.
 
-## Herramientas utilizadas
+Se realizaron análisis de ventas por región, vendedor y producto, además de métricas como ticket promedio y volumen de ventas.
+
+---
+
+## Herramientas Utilizadas
 
 - SQLite
 - DB Browser for SQLite
 - GitHub
 
-## Habilidades demostradas
+---
+
+## Habilidades Demostradas
 
 - SELECT
 - WHERE
@@ -20,54 +26,94 @@ Proyecto desarrollado en SQLite para analizar información de ventas mediante co
 - AVG
 - COUNT
 
-## Preguntas de negocio resueltas
+---
+
+## Preguntas de Negocio Respondidas
 
 - ¿Qué región genera más ventas?
 - ¿Qué vendedor tiene el mejor desempeño?
 - ¿Qué producto vende más unidades?
 - ¿Qué producto genera más ingresos?
 - ¿Cuál es el ticket promedio?
+- ¿Cuántas ventas se realizaron?
 
-## Hallazgos
+---
 
-- La región Norte lidera las ventas.
+## Principales Hallazgos
+
+- La región Norte lidera las ventas totales.
 - Juan es el vendedor con mayor facturación.
 - Mouse es el producto con más unidades vendidas.
 - Laptop es el producto que genera más ingresos.
+- El análisis demuestra que el producto más vendido no necesariamente es el más rentable.
+
+---
 
 ## Evidencia
 
-### Estructura de la tabla
+### Estructura de la Tabla
 
-![Estructura](estructura de la tabla.PNG)
+![Estructura de Tabla](estructura_tabla.png)
 
-### Ventas por región
+---
 
-![Ventas Región](ventas por region.PNG)
+### Ventas por Región
 
-### Ventas por vendedor
+![Ventas por Región](ventas_region.png)
 
-![Ventas Vendedor](ventas por vendedor.PNG)
+---
 
-### Producto con más ingresos
+### Ventas por Vendedor
 
-![Producto Ingresos](producto con mas ingresos.PNG)
+![Ventas por Vendedor](ventas_vendedor.png)
 
-### Producto más vendido
+---
 
-![Producto Vendido](producto mas vendido.PNG)
+### Producto con Más Ingresos
 
-### Ticket promedio
+![Producto con Más Ingresos](producto_ingresos.png)
 
-![Ticket Promedio](ticket promedio.PNG)
+---
 
-### Total de ventas
+### Producto Más Vendido
 
-![Total Ventas](total ventas.PNG)
+![Producto Más Vendido](producto_mas_vendido.png)
 
-### Filtro por región
+---
 
-![Filtro Región](filtro region.PNG)
+### Ticket Promedio
+
+![Ticket Promedio](ticket_promedio.png)
+
+---
+
+### Total de Ventas
+
+![Total de Ventas](total_ventas.png)
+
+---
+
+### Filtro por Región
+
+![Filtro Región](filtro_region.png)
+
+---
+
+### Ventas Mayores a un Monto Determinado
+
+![Filtro Ventas Mayores](filtro_ventas_mayores.png)
+
+---
+
+### Base de Datos Completa
+
+![Base de Datos Completa](base_datos_completa.png)
+
+---
+
+## Conclusión
+
+Este proyecto demuestra el uso de consultas SQL para transformar datos transaccionales en información útil para la toma de decisiones comerciales. Se aplicaron técnicas de agregación, filtrado y análisis exploratorio utilizando SQLite.
 
 ### Ventas mayores a un monto
 
