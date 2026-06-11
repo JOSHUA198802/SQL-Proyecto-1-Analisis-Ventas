@@ -53,61 +53,61 @@ Se realizaron análisis de ventas por región, vendedor y producto, además de m
 
 ### Estructura de la Tabla
 
-![Estructura de Tabla](estructura_tabla.png)
+![Estructura de Tabla](estructura_tabla.PNG)
 
 ---
 
 ### Ventas por Región
 
-![Ventas por Región](ventas_region.png)
+![Ventas por Región](ventas_region.PNG)
 
 ---
 
 ### Ventas por Vendedor
 
-![Ventas por Vendedor](ventas_vendedor.png)
+![Ventas por Vendedor](ventas_vendedor.PNG)
 
 ---
 
 ### Producto con Más Ingresos
 
-![Producto con Más Ingresos](producto_ingresos.png)
+![Producto con Más Ingresos](producto_ingresos.PNG)
 
 ---
 
 ### Producto Más Vendido
 
-![Producto Más Vendido](producto_mas_vendido.png)
+![Producto Más Vendido](producto_mas_vendido.PNG)
 
 ---
 
 ### Ticket Promedio
 
-![Ticket Promedio](ticket_promedio.png)
+![Ticket Promedio](ticket_promedio.PNG)
 
 ---
 
 ### Total de Ventas
 
-![Total de Ventas](total_ventas.png)
+![Total de Ventas](total_ventas.PNG)
 
 ---
 
 ### Filtro por Región
 
-![Filtro Región](filtro_region.png)
+![Filtro Región](filtro_region.PNG)
 
 ---
 
 ### Ventas Mayores a un Monto Determinado
 
-![Filtro Ventas Mayores](filtro_ventas_mayores.png)
+![Filtro Ventas Mayores](filtro_ventas_mayores.PNG)
 
 ---
 
 ### Base de Datos Completa
 
-![Base de Datos Completa](base_datos_completa.png)
+![Base de Datos Completa](base_datos_completa.PNG)
 
 ---
 
