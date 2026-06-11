@@ -115,10 +115,3 @@ Se realizaron análisis de ventas por región, vendedor y producto, además de m
 
 Este proyecto demuestra el uso de consultas SQL para transformar datos transaccionales en información útil para la toma de decisiones comerciales. Se aplicaron técnicas de agregación, filtrado y análisis exploratorio utilizando SQLite.
 
-### Ventas mayores a un monto
-
-![Filtro Ventas](filtro ventas mayores a.PNG)
-
-### Base de datos completa
-
-![Base Completa](base de datos completa.PNG)
